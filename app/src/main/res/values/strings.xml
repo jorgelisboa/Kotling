@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mynimilist</string>
+    <string name="label_tarefa">Tarefas</string>
+    <string name="hint_title">Título</string>
+    <string name="hint_data">Data</string>
+    <string name="hint_time">Hora</string>
+    <string name="txt_create_task">Criar Tarefa</string>
+    <string name="txt_cancel">Cancelar</string>
+    <string name="label_editar">Editar</string>
+    <string name="label_excluir">Excluir</string>
+    <string name="add_task">Adicionar</string>
+    <string name="no_task">Ops! Você não tem \n nenhuma tarefa.</string>
+</resources>
